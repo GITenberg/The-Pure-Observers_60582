@@ -1,0 +1,34 @@
+_repo: The-Pure-Observers_60582
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+creator:
+  author:
+    agent_name: Rogers, B. J.
+    gutenberg_agent_id: '51033'
+    url: http://www.gutenberg.org/2009/agents/51033
+description: ''
+gutenberg_issued: '2019-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: The Pure Observers
+url: http://www.gutenberg.org/ebooks/60582
